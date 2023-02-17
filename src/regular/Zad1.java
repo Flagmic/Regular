@@ -15,6 +15,7 @@ public class Zad1 {
 			sum+=Integer.parseInt(m.group());
 		}
 		System.out.print(sum);
+		scan.close();
 	}
 
 }
